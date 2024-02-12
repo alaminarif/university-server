@@ -1,0 +1,53 @@
+{
+  level: 'error',
+  message: 'failed to database:  configg is not defined',
+  stack: 'ReferenceError: configg is not defined\n' +
+    '    at D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:8:28\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:4:12)\n' +
+    '    at bootstrap (D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:6:30)\n' +
+    '    at Object.<anonymous> (D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:22:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._compile (D:\\Coding\\Projects\\backend-project-setup\\node_modules\\source-map-support\\source-map-support.js:568:25)\n' +
+    '    at Module.m._compile (C:\\Users\\alami\\AppData\\Local\\Temp\\ts-node-dev-hook-5669097699279633.js:69:33)',
+  label: 'right meow!',
+  timestamp: '2023-06-03T05:02:59.955Z'
+}
+{
+  level: 'error',
+  message: 'failed to database:  confiwg is not defined',
+  stack: 'ReferenceError: confiwg is not defined\n' +
+    '    at D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:8:28\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:4:12)\n' +
+    '    at bootstrap (D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:6:30)\n' +
+    '    at Object.<anonymous> (D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:22:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._compile (D:\\Coding\\Projects\\backend-project-setup\\node_modules\\source-map-support\\source-map-support.js:568:25)\n' +
+    '    at Module.m._compile (C:\\Users\\alami\\AppData\\Local\\Temp\\ts-node-dev-hook-5669097699279633.js:69:33)',
+  label: 'right meow!',
+  timestamp: '2023-06-03T05:28:18.884Z'
+}
+Sat Jun 03 2023  11:29:23 [right meow!] error: failed to database:  confiwg is not defined
+{
+  level: 'error',
+  message: 'failed to database:  confiwg is not defined',
+  stack: 'ReferenceError: confiwg is not defined\n' +
+    '    at D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:8:28\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:4:12)\n' +
+    '    at bootstrap (D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:6:30)\n' +
+    '    at Object.<anonymous> (D:\\Coding\\Projects\\backend-project-setup\\src\\server.ts:22:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._compile (D:\\Coding\\Projects\\backend-project-setup\\node_modules\\source-map-support\\source-map-support.js:568:25)\n' +
+    '    at Module.m._compile (C:\\Users\\alami\\AppData\\Local\\Temp\\ts-node-dev-hook-5669097699279633.js:69:33)',
+  label: 'right meow!',
+  timestamp: '2023-06-03T05:41:25.947Z'
+}
+Sat Jun 03 2023  11:43:48 [right meow!] error: failed to database:  confiwg is not defined

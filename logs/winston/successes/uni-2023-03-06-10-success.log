@@ -1,0 +1,12 @@
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'arif!',
+  timestamp: '2023-06-03T04:57:12.837Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'arif!',
+  timestamp: '2023-06-03T04:57:12.843Z'
+}
