@@ -1,0 +1,12 @@
+Tue Feb 13 2024  10:53:20 [right meow!] error: Global Error Handler: ~~~ [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected number, received string"
+  }
+]

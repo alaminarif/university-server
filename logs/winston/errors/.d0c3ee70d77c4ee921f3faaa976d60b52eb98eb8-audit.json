@@ -19,6 +19,21 @@
             "date": 1706631165579,
             "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-30-01-22-error.log",
             "hash": "0652f9b0c02be21d573cd7bca874940970cc55c7a3d567aaf998ec753ff2f5fa"
+        },
+        {
+            "date": 1707799245648,
+            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-13-02-10-error.log",
+            "hash": "5debd62b6b6bd1f30a3ce384c967e36a8928c6e770bc1a19e612a05c7cdedcec"
+        },
+        {
+            "date": 1707800506461,
+            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-13-02-11-error.log",
+            "hash": "18eae1e5e066bc65d833ba6090ea9f47feb27ba657e8098cbee2fc25fdc71d7f"
+        },
+        {
+            "date": 1707804208502,
+            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-13-02-12-error.log",
+            "hash": "1682e27adaa6dbc1206040554ee5be83f11a2e919dc143a6a1ec6aa0ac867770"
         }
     ],
     "hashType": "sha256"
