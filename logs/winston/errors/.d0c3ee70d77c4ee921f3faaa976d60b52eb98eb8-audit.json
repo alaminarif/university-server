@@ -6,34 +6,34 @@
     "auditLog": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\.d0c3ee70d77c4ee921f3faaa976d60b52eb98eb8-audit.json",
     "files": [
         {
-            "date": 1706624962444,
-            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-30-01-20-error.log",
-            "hash": "3c5d5ee745c0adf1742adfade526829d3f1961d45fd78a87e261201346952f38"
+            "date": 1708589977368,
+            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-22-02-14-error.log",
+            "hash": "3a1c5c70b9adb48fbeb1aec4af3a92acc974582ac18ecc8fe9cf93a3d341487c"
         },
         {
-            "date": 1706627297449,
-            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-30-01-21-error.log",
-            "hash": "5d0771042a9bc9b7ba411537eaf5981e41df5839e7c5eda23dd271eb9c9cdc62"
+            "date": 1708592695862,
+            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-22-02-15-error.log",
+            "hash": "1978cef1ec27b1b5e86fac73b85ed7cefaca27d2669b45a0d0ef2d4c17be33a8"
         },
         {
-            "date": 1706631165579,
-            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-30-01-22-error.log",
-            "hash": "0652f9b0c02be21d573cd7bca874940970cc55c7a3d567aaf998ec753ff2f5fa"
+            "date": 1708597667452,
+            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-22-02-16-error.log",
+            "hash": "f816e7bf5a92db377452382ec65d3cd82749b49d20abfca5e2c0f11a51aa2db4"
         },
         {
-            "date": 1707799245648,
-            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-13-02-10-error.log",
-            "hash": "5debd62b6b6bd1f30a3ce384c967e36a8928c6e770bc1a19e612a05c7cdedcec"
+            "date": 1709187410105,
+            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-29-02-12-error.log",
+            "hash": "fbf80453f3e736b6aa1a2c6c6879d823d4d3b0aeada6852fa091e96409454ac8"
         },
         {
-            "date": 1707800506461,
-            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-13-02-11-error.log",
-            "hash": "18eae1e5e066bc65d833ba6090ea9f47feb27ba657e8098cbee2fc25fdc71d7f"
+            "date": 1709457013754,
+            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-03-03-15-error.log",
+            "hash": "760a6f45516c2c825302ab570d4f197cc6a745ddb2685953c8567c0609966887"
         },
         {
-            "date": 1707804208502,
-            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-13-02-12-error.log",
-            "hash": "1682e27adaa6dbc1206040554ee5be83f11a2e919dc143a6a1ec6aa0ac867770"
+            "date": 1709460971733,
+            "name": "D:\\Workspace\\Projects\\university-practice\\university-server\\logs\\winston\\errors\\uni-2024-03-03-16-error.log",
+            "hash": "6fa34b1ff92ebd39d0e1964798634da4270f468de0f6f29a08ee25c8b6b9d8ad"
         }
     ],
     "hashType": "sha256"

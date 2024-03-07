@@ -1,0 +1,23 @@
+Thu Feb 29 2024  12:21:46 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: university-management-ii.academicfaculties index: title_1 dup key: { title: "Faculty of Business and Engineering'" }
+Thu Feb 29 2024  12:25:1 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ Cast to string failed for value "{
+  id: '420100001',
+  role: 'student',
+  password: '12345',
+  student: new ObjectId("65e0233c12bbb4fbc76ae3da"),
+  _id: new ObjectId("65e0233d12bbb4fbc76ae3df"),
+  createdAt: 2024-02-29T06:25:01.153Z,
+  updatedAt: 2024-02-29T06:25:01.153Z,
+  __v: 0
+}" (type Object) at path "id" for model "User"
+Thu Feb 29 2024  12:31:11 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: university-management-ii.students index: email_1 dup key: { email: "userdddess@gmail.com" }
+Thu Feb 29 2024  12:33:29 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: university-management-ii.students index: id_1 dup key: { id: "420100001" }
+Thu Feb 29 2024  12:34:42 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ Cast to string failed for value "{
+  id: '420100001',
+  role: 'student',
+  password: '12345',
+  student: new ObjectId("65e02581244159b94fc71f9d"),
+  _id: new ObjectId("65e02581244159b94fc71fa2"),
+  createdAt: 2024-02-29T06:34:41.922Z,
+  updatedAt: 2024-02-29T06:34:41.922Z,
+  __v: 0
+}" (type Object) at path "id" for model "User"

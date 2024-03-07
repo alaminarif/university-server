@@ -1,0 +1,12 @@
+Wed Mar 06 2024 10:36:24 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Unexpected token 'L', ..."rstName": Lisa,
+   "... is not valid JSON
+Wed Mar 06 2024 10:38:34 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Unexpected token 'K', ..."irstName":Kobe,
+   "... is not valid JSON
+Wed Mar 06 2024 10:39:16 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Unexpected token 'L', ..."irstName":Lorna,
+  "... is not valid JSON
+Wed Mar 06 2024 10:40:54 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Expected ',' or '}' after property value in JSON at position 344
+Wed Mar 06 2024 10:41:25 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Expected ',' or '}' after property value in JSON at position 344
+Wed Mar 06 2024 10:41:55 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Expected ',' or '}' after property value in JSON at position 342
+Wed Mar 06 2024 10:42:23 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: university-management-ii.students index: email_1 dup key: { email: "rakib1@gmail.com" }
+Wed Mar 06 2024 10:43:6 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Unexpected token 'O', ..." "email": Ona_Rogahn"... is not valid JSON
+Wed Mar 06 2024 10:44:9 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: university-management-ii.students index: contactNo_1 dup key: { contactNo: "usesrd_s45dfssa" }
