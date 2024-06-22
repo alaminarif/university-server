@@ -1,4 +1,0 @@
-Sun Mar 03 2024  16:16:11 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ Cast to ObjectId failed for value "300300001" (type string) at path "_id" for model "Student"
-Sun Mar 03 2024  16:16:41 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ Cast to ObjectId failed for value "300300001" (type string) at path "_id" for model "Student"
-Sun Mar 03 2024  16:18:44 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ Cast to ObjectId failed for value "{ id: '300300001' }" (type Object) at path "_id" for model "Student"
-Sun Mar 03 2024  16:26:33 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ Cast to ObjectId failed for value "{ id: '300300001' }" (type Object) at path "_id" for model "Student"
