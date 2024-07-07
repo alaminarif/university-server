@@ -11,7 +11,7 @@ router.post(
   CourseControllers.createCourse,
 );
 
-router.get('/:id', CourseControllers.getSingleCourse);
+// router.get('/:id', CourseControllers.getSingleCourse);
 
 router.patch(
   '/:id',
