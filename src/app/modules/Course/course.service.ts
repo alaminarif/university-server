@@ -38,14 +38,14 @@ const updateCourseIntoDB = async (id: string, payload: Partial<TCourse>) => {
 
   // const session = await mongoose.startSession();
 
-  const updatedBasicCourseInfo = await Course.findByIdAndUpdate(
-    id,
-    courseRemainingData,
-    {
-      new: true,
-      runValidators: true,
-    },
-  );
+  // const updatedBasicCourseInfo = await Course.findByIdAndUpdate(
+  //   id,
+  //   courseRemainingData,
+  //   {
+  //     new: true,
+  //     runValidators: true,
+  //   },
+  // );
 
   if (preRequisiteCourses && preRequisiteCourses.length > 0) {
     const deletedPreRequisites = preRequisiteCourses
